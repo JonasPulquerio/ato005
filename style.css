@@ -44,7 +44,6 @@
     border: none;
     background-color: transparent;
     cursor: pointer;
-    margin-left: -70px;
 }
 
 #prev-button img, #next-button img {
@@ -54,4 +53,5 @@
 
 #prev-button {
     transform: rotate(180deg);
+    margin-left: -70px;
 }
